@@ -59,3 +59,29 @@ float: left;
 .center {
   text-align: center;
 }
+
+.green-circle {
+  float: left;
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+
+.purple-box {
+  float: left;
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  background-color: purple;
+}
+
+.bunny-box {
+  float: left;
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  background-image: url("https://i.pinimg.com/736x/c3/a6/86/c3a686641de767edf079f342cb0a5672--the-elder-scrolls-skyrim.jpg");
+  background-position: center;
+}
