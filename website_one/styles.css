@@ -16,8 +16,22 @@
   width: 400px;
   height: 40px;
   border: 2px solid blue;
-  background-color: cyan;
+  background-color: #ccffff;
   float: left;
+}
+
+.wrapper2 {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.factbreak {
+width: 2000px;
+height: 200px;
+}
+
+.factbreak div {
+float: left;
 }
 
 .table {
