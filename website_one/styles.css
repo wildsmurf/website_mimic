@@ -67,6 +67,8 @@ float: left;
   width: 200px;
   height: 200px;
   background-color: green;
+  text-align: center;
+  margin-left: 12%;
 }
 
 .purple-box {
@@ -75,6 +77,8 @@ float: left;
   width: 200px;
   height: 200px;
   background-color: purple;
+  text-align: center;
+  margin-left: 12%;
 }
 
 .bunny-box {
@@ -84,4 +88,6 @@ float: left;
   height: 200px;
   background-image: url("https://i.pinimg.com/736x/c3/a6/86/c3a686641de767edf079f342cb0a5672--the-elder-scrolls-skyrim.jpg");
   background-position: center;
+  text-align: center;
+  margin-left: 12%;
 }
