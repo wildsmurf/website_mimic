@@ -1,0 +1,27 @@
+.uglybackground {
+  background-color: grey;
+}
+
+.menubox {
+  border: 1px dashed black;
+  float: left;
+  padding-top: 5px;
+  padding-right: 120px;
+  padding-bottom: 140px;
+}
+
+.jakes {
+  background-image: url("http://www.mccormickandschmicks.com/Libraries/whatsinseason/seafood-restaurant-portland-or-jakes-famous-crawfish.sflb.ashx");
+  width: 725px;
+  height: 260px;
+  margin-left: 400px;
+}
+
+.container {
+  width: 1200px;
+}
+
+.container2 {
+  width: 590px;
+  text-align: center;
+}
